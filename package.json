@@ -1,5 +1,5 @@
 {
-  "name": "local-server",
+  "name": "local-testing-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "siyant",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
   }
 }
